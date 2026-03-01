@@ -1,0 +1,51 @@
+{
+  "query": "what is Abscess?",
+  "model": "BAAI/bge-m3",
+  "top_5": [
+    {
+      "rank": 1,
+      "score": 0.6113688945770264,
+      "similarity": 0.6113688945770264,
+      "text": "infection to heal.\nPurpose\nAnabscess is a pus-filled sore, usually caused by a\nbacterial infection. The pus is made up of both live and\ndead organisms and destroyed tissue from the white\nblood cells that were carried to the area to fight theinfection. Abscesses are often found in the soft tissueunder the skin, such as the armpit or the groin.\nGALE ENCYCLOPEDIA OF MEDICINE 15Abscess incision & drainage",
+      "id": "",
+      "source": "The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf",
+      "chunk_index": 258
+    },
+    {
+      "rank": 2,
+      "score": 0.5959389209747314,
+      "similarity": 0.5959389209747314,
+      "text": "Springhouse Corp., 1996.\nCarol A. Turkington\nNodule seeSkin lesionsKEY TERMS\nAbscess— A localized area of infection in a body\ntissue. Abscesses in the brain or skin are possiblecomplications of nocardiosis.\nMeningitis— An infection of the outer covering of\nthe brain (meninges) that can be caused by eitherbacteria or a virus.\nGALE ENCYCLOPEDIA OF MEDICINE 2627Nocardiosis",
+      "id": "",
+      "source": "The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf",
+      "chunk_index": 23620
+    },
+    {
+      "rank": 3,
+      "score": 0.5937235355377197,
+      "similarity": 0.5937235355377197,
+      "text": "Abscess— An area of inflamed and injured body\ntissue that fills with pus.\nAntibody— A specific protein produced by the\nimmune system in response to a specific foreignprotein or particle called an antigen.\nConjunctiva— The mucous membrane that lines\nthe inside of the eyelid and the exposed surface of\nthe eyeball.\nElephantiasis— A condition characterized by the\ngross enlargement of limbs and/or the genitaliathat is also accompanied by a hardening andstretching of the overlying skin. Often a result of\nan obstruction in the lymphatic system caused by\ninfection with a filarial worm.",
+      "id": "",
+      "source": "The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf",
+      "chunk_index": 13260
+    },
+    {
+      "rank": 4,
+      "score": 0.5924069881439209,
+      "similarity": 0.5924069881439209,
+      "text": "Abscess— A walled-off pocket of pus caused by\ninfection.\nEndoscope— A medical instrument that can be\npassed into an area of the body (the bladder or intes-tine, for example) to allow examination of that area.The endoscope usually has a fiber-optic camera thatallows a greatly magnified image to be shown on atelevision screen viewed by the operator. Manyendoscopes also allow the operator to retrieve a\nsmall sample (biopsy) of the area being examined,\nto more closely view the tissue under a microscope.\nFistule— An abnormal channel that creates an open",
+      "id": "",
+      "source": "The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf",
+      "chunk_index": 9562
+    },
+    {
+      "rank": 5,
+      "score": 0.5854914784431458,
+      "similarity": 0.5854914784431458,
+      "text": "Press, 1996.\nDebra Gordon\nAbrasions seeWounds\nAbruptio placentae seePlacental abruption\nAbscess\nDefinition\nAn abscess is an enclosed collection of liquefied\ntissue, known as pus, somewhere in the body. It is theresult of the body’s defensive reaction to foreignmaterial.\nDescription\nThere are two types of abscesses, septic and sterile.",
+      "id": "",
+      "source": "The-Gale-Encyclopedia-of-Medicine-3rd-Edition-staibabussalamsula.ac_.id_.pdf",
+      "chunk_index": 234
+    }
+  ]
+}
