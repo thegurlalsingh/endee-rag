@@ -69,11 +69,13 @@ chmod +x run.sh
 ./run.sh
 ```
 
-## 2.Generate Embeddings via Google Colab/Local Machine
+## 2. Generate Embeddings via Google Colab/Local Machine
 Run create_embeddings.ipynb and store all the embeddings
 
-## 3.Feed all the embeddings in main.py and ingest them on Endee Vector Database
+## 3. Feed all the embeddings
+Feed all the embeddings in main.py and ingest them on Endee Vector Database
 
-## 4.Enter your query in test.py and run
+## 4. Testing
+Enter your query in test.py and run
 
-### NOTE : All the packages must be installed properly
+## NOTE : All the packages must be installed properly
