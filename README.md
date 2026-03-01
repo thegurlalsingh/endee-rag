@@ -44,7 +44,7 @@ Query Time
 ├── User question → encode with same embedding model 
 ├── Endee ANN search → top-k similar chunks
 
-### How Endee Is Used
+## How Endee Is Used
 
 Endee serves as the **persistent, high-performance vector store** and **real-time retrieval engine**.
 
